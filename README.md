@@ -1,7 +1,7 @@
 <h1>Hello there!</h1>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNmNDlqcW14anFpcWt1ZzE3NTVlZTN4YzFjYzhob2VkbDRsbWh3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R97jJCEGEmh0I/giphy.gif" alt="Hello" width="200"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-here&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-here" /> </p>
-<h1>I'm Tarun Jonwal</h1>
+<h1>I'm Tarun Jonwal </h1>
 <h3>A passionate learner</h3>
 
 - 🎓 I am currently studying in **Indian Institute of Information Technology Bhopal**
